@@ -4,3 +4,4 @@ It has been modified/revised to be more efficent, save disk space, and work in P
 ## How to run.
 The program mainly runs automaticly, but there is one file that requires some running.
 start.py is the file that I made, to launch the others, which already trigger the ones in their catagory.
+# The Python files have not yet been debuged ❎
